@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+*.tmp
+*.temp
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Adobe files
+*.ai~
+*.ai.bak
+*.eps~
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
