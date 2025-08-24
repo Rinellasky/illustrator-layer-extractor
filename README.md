@@ -152,7 +152,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Created by:** [Your Name]  
+**Created by:** Rinellasky  
 **Last Updated:** August 2025
 
 ## Related Tools
